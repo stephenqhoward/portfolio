@@ -17,14 +17,12 @@ Class Projects
 
 Personal Project: Discing Up
 React front-end, Django back-end, created a dashboard for users to view disc golf course conditions, operating hours and current weather. Users can share updates and leave comments.
-
-Key Learnings: User Management, Protected Routes, Nested Routes, Selenium Web Driver
-External APIs Integrated: Google Places & DarkSky
+● Key Learnings: User Management, Protected Routes, Nested Routes, Selenium Web Driver
+● External APIs Integrated: Google Places & DarkSky
 
 Group Project: Ahead of the Game (AotG)
 React front-end, Django back-end, AotG is a service that allows users to integrate their favorite teams’ schedule into Google Calendar and subscribe to event-start text notifications.
-
-Personal Contribution: Google Calendar integration, CI/CD to Heroku using Github Actions, dependency management, database design, Mural & Trello board management
-External APIs Integrated: Auth0, Google Calendar, Firebase, Twilio
+● Personal Contribution: Google Calendar integration, CI/CD to Heroku using Github Actions, dependency management, database design, Mural & Trello board management
+● External APIs Integrated: Auth0, Google Calendar, Firebase, Twilio
 
 *Note: Both respositories are private. In the coming days & weeks I plan to provide excerpts from these projects.
