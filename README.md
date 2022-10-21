@@ -22,6 +22,7 @@ React front-end, Django back-end, created a dashboard for users to view disc gol
 * External APIs Integrated: Google Places & DarkSky
 
 Group Project: Ahead of the Game (AotG)
+Group Presentation: https://www.youtube.com/watch?v=yMD_2_THGlI&ab_channel=CodePlatoon
 React front-end, Django back-end, AotG is a service that allows users to integrate their favorite teams’ schedule into Google Calendar and subscribe to event-start text notifications.
 
 * Personal Contribution: Google Calendar integration, CI/CD to Heroku using Github Actions, dependency management, database design, Mural & Trello board management
