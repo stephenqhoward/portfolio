@@ -1,5 +1,9 @@
 # Portfolio
-A repository for showcasing project work. Will be updated rigorously throughout October &amp; November 2022.
+A repository for showcasing project work.
+
+Portfolio Site
+https://personal-site-khaki-pi.vercel.app/
+* Proper domain coming soon!
 
 ---
 
