@@ -2,8 +2,7 @@
 A repository for showcasing project work.
 
 Portfolio Site
-https://personal-site-khaki-pi.vercel.app/
-* Proper domain coming soon!
+https://www.stephenqhoward.com/
 
 ---
 
