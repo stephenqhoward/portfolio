@@ -3,6 +3,7 @@ A repository for showcasing project work.
 
 Portfolio Site
 https://www.stephenqhoward.com/
+See: [personal-site](https://github.com/stephenqhoward/personal-site) repository for how the Portfolio Site was developed.
 
 ---
 
